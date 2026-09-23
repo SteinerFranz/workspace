@@ -540,7 +540,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[0100GELDBUSSE00] !=  ">[0100GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[0101GELDBUSSE00] !=  ">[0101GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -762,7 +762,6 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0102TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0102RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0102RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
-		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0102TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0102TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -1063,7 +1062,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[0200GELDBUSSE00] !=  ">[0200GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[0201GELDBUSSE00] !=  ">[0201GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -1591,7 +1590,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[0300GELDBUSSE00] !=  ">[0300GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[0301GELDBUSSE00] !=  ">[0301GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -2111,7 +2110,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[0400GELDBUSSE00] !=  ">[0400GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[0401GELDBUSSE00] !=  ">[0401GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -2632,7 +2631,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[0500GELDBUSSE00] !=  ">[0500GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[0501GELDBUSSE00] !=  ">[0501GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -3153,7 +3152,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[0600GELDBUSSE00] !=  ">[0600GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[0601GELDBUSSE00] !=  ">[0601GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -3674,7 +3673,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[0700GELDBUSSE00] !=  ">[0700GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[0701GELDBUSSE00] !=  ">[0701GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -4195,7 +4194,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[0800GELDBUSSE00] !=  ">[0800GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[0801GELDBUSSE00] !=  ">[0801GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -4716,7 +4715,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[0900GELDBUSSE00] !=  ">[0900GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[0901GELDBUSSE00] !=  ">[0901GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -5239,7 +5238,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1000GELDBUSSE00] !=  ">[1000GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1001GELDBUSSE00] !=  ">[1001GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -5763,7 +5762,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1100GELDBUSSE00] !=  ">[1100GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1101GELDBUSSE00] !=  ">[1101GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -6286,7 +6285,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1200GELDBUSSE00] !=  ">[1200GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1201GELDBUSSE00] !=  ">[1201GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -6810,7 +6809,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1300GELDBUSSE00] !=  ">[1300GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1301GELDBUSSE00] !=  ">[1301GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -7333,7 +7332,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1400GELDBUSSE00] !=  ">[1400GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1401GELDBUSSE00] !=  ">[1401GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -7856,7 +7855,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1500GELDBUSSE00] !=  ">[1500GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1501GELDBUSSE00] !=  ">[1501GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -8379,7 +8378,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1600GELDBUSSE00] !=  ">[1600GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1601GELDBUSSE00] !=  ">[1601GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -8902,7 +8901,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1700GELDBUSSE00] !=  ">[1700GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1701GELDBUSSE00] !=  ">[1701GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -9425,7 +9424,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1800GELDBUSSE00] !=  ">[1800GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1801GELDBUSSE00] !=  ">[1801GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -9948,7 +9947,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[1900GELDBUSSE00] !=  ">[1900GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[1901GELDBUSSE00] !=  ">[1901GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -10471,7 +10470,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2000GELDBUSSE00] !=  ">[2000GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2001GELDBUSSE00] !=  ">[2001GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -10994,7 +10993,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2100GELDBUSSE00] !=  ">[2100GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2101GELDBUSSE00] !=  ">[2101GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -11517,7 +11516,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2200GELDBUSSE00] !=  ">[2200GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2201GELDBUSSE00] !=  ">[2201GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -12040,7 +12039,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2300GELDBUSSE00] !=  ">[2300GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2301GELDBUSSE00] !=  ">[2301GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -12563,7 +12562,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2400GELDBUSSE00] !=  ">[2400GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2401GELDBUSSE00] !=  ">[2401GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -13086,7 +13085,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2500GELDBUSSE00] !=  ">[2500GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2501GELDBUSSE00] !=  ">[2501GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -13609,7 +13608,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2600GELDBUSSE00] !=  ">[2600GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2601GELDBUSSE00] !=  ">[2601GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -14132,7 +14131,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2700GELDBUSSE00] !=  ">[2700GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2701GELDBUSSE00] !=  ">[2701GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -14655,7 +14654,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2800GELDBUSSE00] !=  ">[2800GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2801GELDBUSSE00] !=  ">[2801GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -15178,7 +15177,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[2900GELDBUSSE00] !=  ">[2900GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[2901GELDBUSSE00] !=  ">[2901GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -15701,7 +15700,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3000GELDBUSSE00] !=  ">[3000GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3001GELDBUSSE00] !=  ">[3001GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -16224,7 +16223,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3100GELDBUSSE00] !=  ">[3100GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3101GELDBUSSE00] !=  ">[3101GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -16747,7 +16746,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3200GELDBUSSE00] !=  ">[3200GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3201GELDBUSSE00] !=  ">[3201GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -17270,7 +17269,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3300GELDBUSSE00] !=  ">[3300GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3301GELDBUSSE00] !=  ">[3301GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -17793,7 +17792,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3400GELDBUSSE00] !=  ">[3400GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3401GELDBUSSE00] !=  ">[3401GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -18316,7 +18315,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3500GELDBUSSE00] !=  ">[3500GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3501GELDBUSSE00] !=  ">[3501GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -18839,7 +18838,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3600GELDBUSSE00] !=  ">[3600GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3601GELDBUSSE00] !=  ">[3601GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -19362,7 +19361,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3700GELDBUSSE00] !=  ">[3700GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3701GELDBUSSE00] !=  ">[3701GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -19885,7 +19884,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3800GELDBUSSE00] !=  ">[3800GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3801GELDBUSSE00] !=  ">[3801GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -20408,7 +20407,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[3900GELDBUSSE00] !=  ">[3900GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[3901GELDBUSSE00] !=  ">[3901GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -20931,7 +20930,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4000GELDBUSSE00] !=  ">[4000GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4001GELDBUSSE00] !=  ">[4001GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -21454,7 +21453,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4100GELDBUSSE00] !=  ">[4100GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4101GELDBUSSE00] !=  ">[4101GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -21977,7 +21976,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4200GELDBUSSE00] !=  ">[4200GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4201GELDBUSSE00] !=  ">[4201GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -22500,7 +22499,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4300GELDBUSSE00] !=  ">[4300GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4301GELDBUSSE00] !=  ">[4301GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -23023,7 +23022,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4400GELDBUSSE00] !=  ">[4400GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4401GELDBUSSE00] !=  ">[4401GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -23546,7 +23545,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4500GELDBUSSE00] !=  ">[4500GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4501GELDBUSSE00] !=  ">[4501GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -24069,7 +24068,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4600GELDBUSSE00] !=  ">[4600GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4601GELDBUSSE00] !=  ">[4601GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -24592,7 +24591,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4700GELDBUSSE00] !=  ">[4700GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4701GELDBUSSE00] !=  ">[4701GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -25115,7 +25114,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4800GELDBUSSE00] !=  ">[4800GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4801GELDBUSSE00] !=  ">[4801GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -25638,7 +25637,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[4900GELDBUSSE00] !=  ">[4900GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[4901GELDBUSSE00] !=  ">[4901GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -26161,7 +26160,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[5000GELDBUSSE00] !=  ">[5000GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[5001GELDBUSSE00] !=  ">[5001GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
@@ -26684,7 +26683,7 @@
         <!-- Label-->
         <label x="17" y="130" style="label" fontbold="true">Geldbuﬂe/W‰hrung</label>
         <!-- Content from Programm -->
-        <label x="17" y="134" style="label" fontbold="false" condition="[5100GELDBUSSE00] !=  ">[5100GELDBUSSE00] EURO</label>
+        <label x="17" y="134" style="label" fontbold="false" condition="[5101GELDBUSSE00] !=  ">[5101GELDBUSSE00] EURO</label>
       <!-- Objekt  -->
         <!-- Rahmen -->
         <rectangle x="56" y="130" width="40" height="10" borderwidth="0.2" />
