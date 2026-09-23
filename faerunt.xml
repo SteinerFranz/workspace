@@ -762,7 +762,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0102TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0102RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0102RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
-		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0102GELDBUSSE00] !=  ">Geldbuﬂe: [0102GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0102TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0102TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -809,6 +809,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0103TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0103RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0103RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[0103TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[0103TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -855,6 +856,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0104TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0104RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0104RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[0104TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[0104TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -1119,6 +1121,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0201TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0201RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0201RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[0201TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[0201TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -1292,6 +1295,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0202TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>         
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0202RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0202RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0202TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0202TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -1338,6 +1342,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0203TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0203RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0203RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[0203TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[0203TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -1384,6 +1389,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0204TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0204RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0204RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[0204TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[0204TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -1645,6 +1651,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0301TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0301RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0301RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[0301TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[0301TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -1812,6 +1819,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0302TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0302RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0302RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0302TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0302TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -1858,6 +1866,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0303TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0303RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0303RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[0303TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[0303TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -1904,6 +1913,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0304TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0304RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0304RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[0304TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[0304TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -2165,6 +2175,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0401TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0401RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0401RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[0401TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[0401TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -2333,6 +2344,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0402TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0402RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0402RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0402TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0402TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -2379,6 +2391,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0403TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0403RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0403RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[0403TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[0403TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -2425,6 +2438,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0404TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0404RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0404RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[0404TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[0404TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -2686,6 +2700,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0501TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0501RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0501RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[0501TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[0501TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -2854,6 +2869,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0502TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0502RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0502RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0502TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0502TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -2900,6 +2916,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0503TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0503RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0503RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[0503TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[0503TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -2946,6 +2963,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0504TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0504RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0504RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[0504TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[0504TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -3207,6 +3225,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0601TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0601RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0601RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[0601TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[0601TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -3375,6 +3394,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0602TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0602RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0602RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0602TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0602TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -3421,6 +3441,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0603TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0603RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0603RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[0603TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[0603TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -3467,6 +3488,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0604TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0604RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0604RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[0604TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[0604TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -3728,6 +3750,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0701TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0701RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0701RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[0701TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[0701TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -3896,6 +3919,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0702TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0702RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0702RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0702TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0702TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -3942,6 +3966,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0703TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0703RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0703RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[0703TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[0703TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -3988,6 +4013,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0704TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0704RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0704RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[0704TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[0704TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -4249,6 +4275,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0801TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0801RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0801RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[0801TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[0801TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -4417,6 +4444,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0802TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0802RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0802RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0802TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0802TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -4463,6 +4491,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0803TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0803RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0803RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[0803TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[0803TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -4509,6 +4538,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0804TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0804RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0804RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[0804TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[0804TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -4770,6 +4800,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0901TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0901RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[0901RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[0901TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[0901TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -4938,6 +4969,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0902TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0902RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[0902RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[0902TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[0902TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -4984,6 +5016,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0903TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0903RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[0903RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[0903TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[0903TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -5030,6 +5063,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0904TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0904RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[0904RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[0904TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[0904TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -5293,6 +5327,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1001TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1001RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1001RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1001TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1001TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -5461,6 +5496,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1002TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1002RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1002RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1002TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1002TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -5507,6 +5543,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1003TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1003RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1003RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1003TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1003TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -5553,6 +5590,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1004TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1004RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1004RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1004TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1004TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -5817,6 +5855,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1101TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1101RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1101RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1101TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1101TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -5985,6 +6024,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1102TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1102RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1102RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1102TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1102TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -6031,6 +6071,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1103TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1103RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1103RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1103TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1103TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -6077,6 +6118,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1104TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1104RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1104RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1104TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1104TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -6341,6 +6383,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1201TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1201RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1201RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1201TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1201TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -6509,6 +6552,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1202TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1202RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1202RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1202TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1202TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -6555,6 +6599,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1203TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1203RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1203RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1203TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1203TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -6601,6 +6646,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1204TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1204RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1204RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1204TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1204TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -6864,6 +6910,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1301TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1301RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1301RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1301TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1301TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -7032,6 +7079,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1302TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1302RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1302RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1302TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1302TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -7078,6 +7126,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1303TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1303RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1303RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1303TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1303TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -7124,6 +7173,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1304TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1304RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1304RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1304TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1304TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -7387,6 +7437,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1401TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1401RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1401RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1401TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1401TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -7555,6 +7606,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1402TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1402RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1402RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1402TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1402TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -7601,6 +7653,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1403TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1403RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1403RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1403TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1403TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -7647,6 +7700,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1404TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1404RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1404RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1404TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1404TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -7910,6 +7964,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1501TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1501RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1501RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1501TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1501TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -8078,6 +8133,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1502TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1502RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1502RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1502TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1502TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -8124,6 +8180,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1503TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1503RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1503RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1503TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1503TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -8170,6 +8227,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1504TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1504RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1504RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1504TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1504TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -8433,6 +8491,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1601TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1601RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1601RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1601TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1601TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -8601,6 +8660,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1602TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1602RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1602RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1602TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1602TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -8647,6 +8707,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1603TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1603RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1603RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1603TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1603TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -8693,6 +8754,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1604TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1604RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1604RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1604TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1604TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -8956,6 +9018,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1701TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1701RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1701RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1701TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1701TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -9124,6 +9187,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1702TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1702RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1702RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1702TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1702TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -9170,6 +9234,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1703TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1703RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1703RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1703TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1703TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -9216,6 +9281,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1704TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1704RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1704RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1704TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1704TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -9479,6 +9545,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1801TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1801RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1801RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1801TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1801TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -9647,6 +9714,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1802TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1802RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1802RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1802TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1802TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -9693,6 +9761,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1803TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1803RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1803RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1803TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1803TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -9739,6 +9808,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1804TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1804RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1804RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1804TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1804TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -10002,6 +10072,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1901TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1901RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[1901RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[1901TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[1901TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -10170,6 +10241,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1902TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1902RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[1902RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[1902TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[1902TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -10216,6 +10288,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1903TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1903RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[1903RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[1903TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[1903TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -10262,6 +10335,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1904TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1904RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[1904RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[1904TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[1904TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -10525,6 +10599,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2001TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2001RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2001RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2001TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2001TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -10693,6 +10768,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2002TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2002RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2002RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2002TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2002TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -10739,6 +10815,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2003TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2003RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2003RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2003TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2003TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -10785,6 +10862,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2004TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2004RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2004RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2004TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2004TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -11048,6 +11126,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2101TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2101RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2101RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2101TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2101TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -11216,6 +11295,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2102TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2102RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2102RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2102TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2102TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -11262,6 +11342,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2103TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2103RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2103RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2103TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2103TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -11308,6 +11389,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2104TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2104RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2104RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2104TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2104TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -11571,6 +11653,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2201TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2201RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2201RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2201TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2201TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -11739,6 +11822,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2202TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2202RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2202RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2202TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2202TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -11785,6 +11869,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2203TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2203RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2203RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2203TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2203TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -11831,6 +11916,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2204TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2204RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2204RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2204TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2204TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -12094,6 +12180,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2301TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2301RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2301RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2301TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2301TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -12262,6 +12349,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2302TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2302RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2302RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2302TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2302TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -12308,6 +12396,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2303TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2303RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2303RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2303TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2303TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -12354,6 +12443,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2304TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2304RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2304RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2304TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2304TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -12617,6 +12707,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2401TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2401RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2401RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2401TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2401TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -12785,6 +12876,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2402TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2402RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2402RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2402TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2402TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -12831,6 +12923,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2403TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2403RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2403RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2403TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2403TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -12877,6 +12970,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2404TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2404RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2404RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2404TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2404TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -13140,6 +13234,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2501TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2501RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2501RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2501TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2501TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -13308,6 +13403,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2502TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2502RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2502RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2502TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2502TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -13354,6 +13450,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2503TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2503RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2503RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2503TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2503TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -13400,6 +13497,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2504TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2504RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2504RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2504TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2504TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -13663,6 +13761,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2601TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2601RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2601RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2601TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2601TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -13831,6 +13930,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2602TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2602RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2602RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2602TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2602TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -13877,6 +13977,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2603TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2603RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2603RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2603TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2603TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -13923,6 +14024,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2604TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2604RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2604RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2604TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2604TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -14186,6 +14288,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2701TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2701RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2701RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2701TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2701TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -14354,6 +14457,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2702TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2702RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2702RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2702TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2702TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -14400,6 +14504,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2703TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2703RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2703RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2703TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2703TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -14446,6 +14551,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2704TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2704RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2704RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2704TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2704TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -14709,6 +14815,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2801TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2801RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2801RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2801TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2801TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -14877,6 +14984,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2802TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2802RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2802RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2802TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2802TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -14923,6 +15031,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2803TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2803RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2803RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2803TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2803TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -14969,6 +15078,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2804TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2804RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2804RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2804TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2804TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -15232,6 +15342,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2901TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2901RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[2901RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[2901TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[2901TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -15400,6 +15511,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2902TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2902RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[2902RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[2902TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[2902TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -15446,6 +15558,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2903TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2903RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[2903RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[2903TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[2903TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -15492,6 +15605,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2904TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2904RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[2904RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[2904TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[2904TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -15755,6 +15869,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3001TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3001RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3001RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3001TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3001TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -15923,6 +16038,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3002TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3002RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3002RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3002TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3002TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -15969,6 +16085,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3003TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3003RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3003RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3003TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3003TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -16015,6 +16132,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3004TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3004RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3004RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3004TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3004TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -16278,6 +16396,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3101TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3101RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3101RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3101TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3101TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -16446,6 +16565,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3102TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3102RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3102RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3102TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3102TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -16492,6 +16612,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3103TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3103RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3103RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3103TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3103TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -16538,6 +16659,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3104TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3104RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3104RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3104TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3104TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -16801,6 +16923,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3201TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3201RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3201RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3201TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3201TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -16969,6 +17092,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3202TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3202RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3202RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3202TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3202TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -17015,6 +17139,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3203TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3203RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3203RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3203TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3203TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -17061,6 +17186,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3204TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3204RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3204RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3204TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3204TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -17324,6 +17450,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3301TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3301RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3301RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3301TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3301TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -17492,6 +17619,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3302TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3302RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3302RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3302TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3302TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -17538,6 +17666,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3303TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3303RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3303RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3303TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3303TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -17584,6 +17713,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3304TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3304RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3304RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3304TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3304TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -17847,6 +17977,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3401TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3401RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3401RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3401TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3401TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -18015,6 +18146,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3402TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3402RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3402RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3402TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3402TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -18061,6 +18193,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3403TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3403RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3403RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3403TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3403TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -18107,6 +18240,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3404TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3404RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3404RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3404TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3404TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -18370,6 +18504,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3501TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3501RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3501RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3501TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3501TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -18538,6 +18673,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3502TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3502RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3502RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3502TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3502TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -18584,6 +18720,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3503TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3503RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3503RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3503TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3503TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -18630,6 +18767,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3504TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3504RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3504RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3504TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3504TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -18893,6 +19031,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3601TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3601RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3601RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3601TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3601TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -19061,6 +19200,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3602TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3602RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3602RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3602TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3602TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -19107,6 +19247,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3603TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3603RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3603RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3603TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3603TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -19153,6 +19294,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3604TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3604RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3604RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3604TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3604TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -19416,6 +19558,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3701TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3701RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3701RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3701TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3701TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -19584,6 +19727,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3702TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3702RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3702RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3702TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3702TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -19630,6 +19774,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3703TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3703RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3703RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3703TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3703TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -19676,6 +19821,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3704TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3704RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3704RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3704TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3704TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -19939,6 +20085,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3801TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3801RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3801RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3801TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3801TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -20107,6 +20254,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3802TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3802RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3802RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3802TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3802TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -20153,6 +20301,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3803TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3803RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3803RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3803TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3803TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -20199,6 +20348,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3804TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3804RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3804RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3804TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3804TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -20462,6 +20612,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3901TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3901RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[3901RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[3901TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[3901TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -20630,6 +20781,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3902TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3902RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[3902RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[3902TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[3902TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -20676,6 +20828,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3903TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3903RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[3903RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[3903TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[3903TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -20722,6 +20875,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3904TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3904RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[3904RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[3904TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[3904TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -20985,6 +21139,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4001TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4001RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4001RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4001TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4001TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -21153,6 +21308,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4002TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4002RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4002RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4002TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4002TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -21199,6 +21355,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4003TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4003RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4003RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4003TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4003TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -21245,6 +21402,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4004TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4004RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4004RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4004TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4004TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -21508,6 +21666,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4101TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4101RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4101RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4101TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4101TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -21676,6 +21835,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4102TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4102RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4102RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4102TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4102TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -21722,6 +21882,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4103TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4103RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4103RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4103TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4103TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -21768,6 +21929,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4104TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4104RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4104RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4104TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4104TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -22031,6 +22193,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4201TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4201RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4201RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4201TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4201TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -22199,6 +22362,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4202TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4202RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4202RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4202TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4202TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -22245,6 +22409,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4203TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4203RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4203RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4203TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4203TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -22291,6 +22456,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4204TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4204RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4204RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4204TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4204TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -22554,6 +22720,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4301TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4301RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4301RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4301TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4301TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -22722,6 +22889,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4302TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4302RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4302RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4302TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4302TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -22768,6 +22936,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4303TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4303RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4303RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4303TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4303TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -22814,6 +22983,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4304TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4304RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4304RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4304TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4304TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -23077,6 +23247,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4401TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4401RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4401RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4401TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4401TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -23245,6 +23416,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4402TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4402RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4402RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4402TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4402TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -23291,6 +23463,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4403TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4403RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4403RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4403TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4403TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -23337,6 +23510,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4404TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4404RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4404RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4404TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4404TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -23600,6 +23774,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4501TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4501RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4501RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4501TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4501TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -23768,6 +23943,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4502TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4502RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4502RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4502TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4502TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -23814,6 +23990,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4503TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4503RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4503RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4503TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4503TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -23860,6 +24037,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4504TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4504RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4504RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4504TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4504TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -24123,6 +24301,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4601TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4601RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4601RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4601TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4601TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -24291,6 +24470,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4602TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4602RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4602RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4602TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4602TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -24337,6 +24517,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4603TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4603RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4603RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4603TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4603TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -24383,6 +24564,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4604TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4604RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4604RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4604TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4604TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -24646,6 +24828,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4701TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4701RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4701RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4701TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4701TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -24814,6 +24997,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4702TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4702RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4702RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4702TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4702TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -24860,6 +25044,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4703TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4703RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4703RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4703TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4703TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -24906,6 +25091,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4704TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4704RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4704RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4704TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4704TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -25169,6 +25355,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4801TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4801RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4801RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4801TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4801TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -25337,6 +25524,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4802TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4802RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4802RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4802TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4802TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -25383,6 +25571,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4803TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4803RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4803RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4803TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4803TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -25429,6 +25618,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4804TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4804RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4804RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4804TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4804TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -25692,6 +25882,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4901TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4901RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[4901RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[4901TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[4901TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -25860,6 +26051,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4902TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4902RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[4902RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[4902TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[4902TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -25906,6 +26098,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4903TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4903RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[4903RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[4903TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[4903TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -25952,6 +26145,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4904TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4904RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[4904RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[4904TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[4904TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -26215,6 +26409,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[5001TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[5001RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[5001RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[5001TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[5001TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -26383,6 +26578,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[5002TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[5002RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[5002RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[5002TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[5002TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -26429,6 +26625,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[5003TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[5003RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[5003RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[5003TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[5003TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -26475,6 +26672,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[5004TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[5004RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[5004RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[5004TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[5004TEXTANGEWENDETEVORSCHRIFTEN02]</label>
@@ -26738,6 +26936,7 @@
         <label x="17" y="186" style="textvier" fontbold="true" condition="[5101TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="186" style="textvier" fontbold="true" condition="[5101RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="186" style="textvier" fontbold="true" condition="[5101RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="189" style="textvier" fontbold="false">[5101TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="192" style="textvier" fontbold="false">[5101TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -26907,6 +27106,7 @@
         <label x="17" y="60" style="textvier" fontbold="true" condition="[5102TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="60" style="textvier" fontbold="true" condition="[5102RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="60" style="textvier" fontbold="true" condition="[5102RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                               
         <label x="17" y="64" style="textvier" fontbold="false">[5102TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="68" style="textvier" fontbold="false">[5102TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -26953,6 +27153,7 @@
         <label x="17" y="141" style="textvier" fontbold="true" condition="[5103TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="141" style="textvier" fontbold="true" condition="[5103RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="141" style="textvier" fontbold="true" condition="[5103RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="145" style="textvier" fontbold="false">[5103TEXTANGEWENDETEVORSCHRIFTEN00]</label>
 		<label x="17" y="149" style="textvier" fontbold="false">[5103TEXTANGEWENDETEVORSCHRIFTEN01]</label>
@@ -26999,6 +27200,7 @@
         <label x="17" y="224" style="textvier" fontbold="true" condition="[5104TEXTANGEWENDETEVORSCHRIFTEN00] !=  ">Rechtsgrundlage(n) f¸r die Maﬂnahme zur Fahrerlaubnis:</label>        
         <label x="17" y="224" style="textvier" fontbold="true" condition="[5104RECHTSGRUNDLAGEN00] !=  ">Rechtsgrundlage(n):</label>
         <label x="17" y="224" style="textvier" fontbold="true" condition="[5104RECHTSGRUNDLAGENBET00] !=  ">Rechtsgrundlage(n):</label>
+		<label x="117" y="60" style="textvier" fontbold="true" condition="[0101GELDBUSSE00] !=  ">Geldbuﬂe: [0101GELDBUSSE00] EURO</label>
                                                       
         <label x="17" y="228" style="textvier" fontbold="false">[5104TEXTANGEWENDETEVORSCHRIFTEN01]</label>
 		<label x="17" y="232" style="textvier" fontbold="false">[5104TEXTANGEWENDETEVORSCHRIFTEN02]</label>
